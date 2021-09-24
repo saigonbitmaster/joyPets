@@ -2,10 +2,10 @@
 # it has:
 - pet albums
 - share message with other pet owners
-- discovery functions: 
-  - places around to identify where they can free their pet
-  - discovery pets around so pet can make friend
-  - discovery pet food and health services around
+- geo discovery functions: 
+  - show places around to identify where they can free their pet
+  - show pets around so pet can make friend
+  - show pet food and health services around
 - communcation chanels with other pet owners and pet service providers
 - notify to broadcast public message eg: city policies, ... 
 # project include:
