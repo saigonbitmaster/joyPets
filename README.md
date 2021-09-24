@@ -5,7 +5,7 @@
 - discovery functions: 
   - places around to identify where they can free their pet
   - discovery pets around so pet can make friend
-  - discovery pets food and health services around
+  - discovery pet food and health services around
 - communcation chanels with other pet owners and pet service providers
 - notify to broadcast public message eg: city policies, ... 
 # project include:
