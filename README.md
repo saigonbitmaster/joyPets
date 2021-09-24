@@ -1,4 +1,5 @@
-# joyfulpets is free app for pet owner. it has:
+# joyfulpets is free app for pet owner
+# it has:
 - pet albums
 - share message with other pet owners
 - discovery functions: 
