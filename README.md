@@ -13,3 +13,4 @@
 - web app
 - android/ios apps
 # This is free project need other contributors to help build out.
+# Project tech stack: nodejs, restApi, mongo, react and react native.
